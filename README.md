@@ -1,4 +1,4 @@
-# DG Interns Hub — Week 7 React JS Task
+# Job Hub — Week 7 React JS Task
 
 A responsive internship discovery website built with React, Vite, React Router and plain CSS.
 
