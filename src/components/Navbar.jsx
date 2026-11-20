@@ -10,8 +10,8 @@ export default function Navbar() {
     <header className="site-header">
       <nav className="nav-shell container">
         <Link to="/" className="brand" onClick={close} aria-label="DG Interns Hub home">
-          <span className="brand-mark">dg<span>.</span></span>
-          <span className="brand-name">interns hub</span>
+          <span className="brand-mark">Job<span>.</span></span>
+          <span className="brand-name"> hub</span>
         </Link>
 
         <button className="menu-toggle" onClick={() => setOpen(!open)} aria-label="Toggle navigation">

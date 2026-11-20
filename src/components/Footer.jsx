@@ -7,8 +7,8 @@ export default function Footer() {
       <div className="container footer-top">
         <div>
           <Link to="/" className="brand footer-brand">
-            <span className="brand-mark">dg<span>.</span></span>
-            <span className="brand-name">interns hub</span>
+            <span className="brand-mark">Job<span>.</span></span>
+            <span className="brand-name"> hub</span>
           </Link>
           <p className="footer-copy">Your first step doesn't need to be perfect.<br />It just needs to begin.</p>
         </div>
@@ -23,7 +23,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="container footer-bottom">
-        <span>© {new Date().getFullYear()} DG Interns Hub. Built for what’s next.</span>
+        <span>© {new Date().getFullYear()} Job Hub. Built for what’s next.</span>
         <span>Learn · Build · Launch</span>
       </div>
     </footer>
